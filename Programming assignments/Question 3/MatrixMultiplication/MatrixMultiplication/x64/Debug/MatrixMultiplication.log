@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  matrixMultiply.cpp
+  Generating Code...
+     Creating library C:\Users\TaharMasmaliyev\source\repos\MatrixMultiplication\x64\Debug\MatrixMultiplication.lib and object C:\Users\TaharMasmaliyev\source\repos\MatrixMultiplication\x64\Debug\MatrixMultiplication.exp
+  MatrixMultiplication.vcxproj -> C:\Users\TaharMasmaliyev\source\repos\MatrixMultiplication\x64\Debug\MatrixMultiplication.dll

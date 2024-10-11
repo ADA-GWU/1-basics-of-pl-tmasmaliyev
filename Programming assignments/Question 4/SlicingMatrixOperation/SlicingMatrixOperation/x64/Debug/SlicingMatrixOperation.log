@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  matrixSlicing.cpp
+  Generating Code...
+     Creating library C:\Users\TaharMasmaliyev\source\repos\SlicingMatrixOperation\x64\Debug\SlicingMatrixOperation.lib and object C:\Users\TaharMasmaliyev\source\repos\SlicingMatrixOperation\x64\Debug\SlicingMatrixOperation.exp
+  SlicingMatrixOperation.vcxproj -> C:\Users\TaharMasmaliyev\source\repos\SlicingMatrixOperation\x64\Debug\SlicingMatrixOperation.dll
